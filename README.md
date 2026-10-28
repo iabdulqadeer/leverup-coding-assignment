@@ -1,2 +1,0 @@
-# BITTERN Labs
-
