@@ -1,0 +1,22 @@
+{
+  "name": "leverup-clean",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "hardhat test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "C:/Users/PMLS/Downloads/Compressed/solidity-coding-assignment"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "private": true,
+  "devDependencies": {
+    "@nomicfoundation/hardhat-ethers": "^3.0.8",
+    "ethers": "^6.13.5",
+    "hardhat": "^2.22.19"
+  }
+}
